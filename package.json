@@ -8,7 +8,7 @@
   "dependencies": {
     "@enitoni/gears": "^3.0.4",
     "@enitoni/gears-discordjs": "^2.0.1",
-    "discord.js": "^11.5.1"
+    "discord.js": "^14.0.0"
   },
   "devDependencies": {
     "@types/node": "^13.1.7",
