@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@enitoni/gears": "^3.0.4",
-    "@enitoni/gears-discordjs": "^2.0.1",
+    "@enitoni/gears-discordjs": "^4.0.0",
     "discord.js": "^11.5.1"
   },
   "devDependencies": {
